@@ -10,5 +10,4 @@ This repository contains the tasks that I completed while working as an intern f
 * Internship Type - Work from Home
 
 
-#GRIPAPR21 #TSF #thesparksfoundation #machinelearning #datascience #python #ml
-#deeplearning #businessanalytics #supervisedML #intern2021 #GRIPAPR2021 #thesparkfoundation
+
